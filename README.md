@@ -1,7 +1,11 @@
-AceleraDev Data Science
+[`AceleraDev Data Science`]
 ==============================
 
-A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
+> A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
+
+| Role                 | Responsibility         | Full name                | e-mail       |
+| -----                | ----------------       | -----------              | ---------    |
+| Data Scientist       | Author                 | [`Matheus de Almeida Silva`]            | [`ms.asilvas1@gmail.com`] |
 
 Project Organization
 ------------
