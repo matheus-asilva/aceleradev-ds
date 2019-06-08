@@ -1,4 +1,4 @@
-[`Sentiment Classifier in Production as a REST API with Flask`]
+[`Sentiment Classifier Model with REST API using Flask`]
 ==============================
 
 > Here you can find a simple project to deploy a Machine Learning model as a Sentiment Classifier using Flask.
@@ -10,7 +10,7 @@
 File Structure
 ------------
 ```
-├── README.md          <- Overview this project.
+├── README.md          <- Overview of this project.
 ├── data
 │   ├── train.tsv      <- Data used to train the model
 │   ├── test.tsv       <- Data to be predicted
