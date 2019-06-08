@@ -10,7 +10,7 @@
 File Structure
 ------------
 ```
-├── README.md          <- Overview this project.
+├── README.md          <- Overview of this project.
 ├── data
 │   ├── train.tsv      <- Data used to train the model
 │   ├── test.tsv       <- Data to be predicted
