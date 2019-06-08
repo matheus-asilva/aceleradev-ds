@@ -1,4 +1,4 @@
-[`Sentiment Classifier in Production as a REST API with Flask`]
+[`Sentiment Classifier Model as a REST API with Flask`]
 ==============================
 
 > Here you can find a simple project to deploy a Machine Learning model as a Sentiment Classifier using Flask.
