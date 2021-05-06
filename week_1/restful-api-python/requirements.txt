@@ -1,7 +1,7 @@
 dill==0.2.9
 Flask==1.0.2
 Flask-Compress==1.4.0
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 joblib==0.13.2
 lightgbm==2.2.3
